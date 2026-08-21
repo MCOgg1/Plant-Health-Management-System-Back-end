@@ -14,7 +14,6 @@ Constructs a light-weight SQL database to hold a user's plant information and li
 - Targeted exception handling between Operational errors and integrity-constraint violations
 - Multi-table SQL Queries which incorporate INNER JOINs, aggregation (AVG) and GROUP BY to determine per-plant metrics from recordings
 - Normalised relational database schema with primary/Foreign keys across tables
-- 
 
 ## Built With
 - SQL (SQLite)
